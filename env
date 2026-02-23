@@ -1,0 +1,8 @@
+# MongoDB Connection String
+MONGO_URI=mongodb+srv://AbiburRahaman:aA2YE9UH6tMauRmF@cluster0.tquhhoa.mongodb.net/?appName=Cluster0
+
+# Database Name
+DB_NAME=portfolio_db
+
+# Admin Password (Change this to something secure!)
+ADMIN_PASSWORD=admin123
